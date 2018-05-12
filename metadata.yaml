@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9596'
     url: http://www.gutenberg.org/2009/agents/9596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22587#Northern-Nut-Growers-Association-Thirty-Fourth-Annual-Report-1943
 gutenberg_bookshelf: Northern Nut Growers Association
 gutenberg_issued: '2007-09-12'
 gutenberg_type: Text
